@@ -1,0 +1,5 @@
+google-genai
+faster-whisper
+edge-tts
+gradio
+nest-asyncio
